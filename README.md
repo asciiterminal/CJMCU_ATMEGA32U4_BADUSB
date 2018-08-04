@@ -22,6 +22,7 @@ upload the .ino script to your BADUSB and when it is successful the BADUSB will 
 
 Now you may first plug in your SD card into the card reader and download the ducky script of your choice from here (https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads) made by (https://github.com/hak5darren) 
 Name your desired script as 'script' as a textfile in the SD card(some may require you to make your own changes in order for them to work start with the easy one as a kickstarter with 'Hello world') since the .ino code tells the USB to read the ducky script file with the name 'script'.
+
 ##The Final Work
 
 Now that the script is in the SD card plug the SD Card into the USB and then plug the USB into the computer and see the magic.
